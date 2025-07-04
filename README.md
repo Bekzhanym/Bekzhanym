@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Bekzhanym<br>🌱 I’m currently learning flutter framework<br>Sales manager at Qalan.kz<br>Product manager<br>Mrktng<br>CEO of future leader in edtech platform "Talap Academy"
+👋 Hi, I’m @Bekzhanym<br>🌱 I’m currently learning flutter framework<br>Sales manager<br>Product manager<br>Mrktng<br>CEO of future leader in edtech platform "Talap Academy"
 
 
 ## 🌐 Socials:
